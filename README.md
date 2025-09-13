@@ -6,7 +6,8 @@ Play against the computer and see who wins!
 ---
 
 ## 🎮 Play Now
-![Click here to play Rock-Paper-Scissor](https://raveenakumari24.github.io/Rock-Paper-Scissors/)
+[Click here to play Rock-Paper-Scissors](https://raveenakumari24.github.io/Rock-Paper-Scissors/)
+
 ---
 
 ## 🖼️ Screenshot  
